@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/neowise-site/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/neowise-site/static/js/main.ce465d46.chunk.js",
+    "main.js.map": "/neowise-site/static/js/main.ce465d46.chunk.js.map",
+    "runtime-main.js": "/neowise-site/static/js/runtime-main.fb34137b.js",
+    "runtime-main.js.map": "/neowise-site/static/js/runtime-main.fb34137b.js.map",
+    "static/js/2.4a327d4a.chunk.js": "/neowise-site/static/js/2.4a327d4a.chunk.js",
+    "static/js/2.4a327d4a.chunk.js.map": "/neowise-site/static/js/2.4a327d4a.chunk.js.map",
+    "static/js/3.138c8e2b.chunk.js": "/neowise-site/static/js/3.138c8e2b.chunk.js",
+    "static/js/3.138c8e2b.chunk.js.map": "/neowise-site/static/js/3.138c8e2b.chunk.js.map",
+    "index.html": "/neowise-site/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/neowise-site/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.4a327d4a.chunk.js.LICENSE.txt": "/neowise-site/static/js/2.4a327d4a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/neowise-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb34137b.js",
+    "static/js/2.4a327d4a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ce465d46.chunk.js"
+  ]
+}
