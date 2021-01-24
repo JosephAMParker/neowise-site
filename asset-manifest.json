@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/neowise-site/static/css/main.ced281f4.chunk.css",
-    "main.js": "/neowise-site/static/js/main.f79d7096.chunk.js",
-    "main.js.map": "/neowise-site/static/js/main.f79d7096.chunk.js.map",
+    "main.js": "/neowise-site/static/js/main.f3739201.chunk.js",
+    "main.js.map": "/neowise-site/static/js/main.f3739201.chunk.js.map",
     "runtime-main.js": "/neowise-site/static/js/runtime-main.46605fc1.js",
     "runtime-main.js.map": "/neowise-site/static/js/runtime-main.46605fc1.js.map",
     "static/css/2.325dfaf0.chunk.css": "/neowise-site/static/css/2.325dfaf0.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.325dfaf0.chunk.css",
     "static/js/2.88e7ea7a.chunk.js",
     "static/css/main.ced281f4.chunk.css",
-    "static/js/main.f79d7096.chunk.js"
+    "static/js/main.f3739201.chunk.js"
   ]
 }
