@@ -4,21 +4,18 @@
 	[
 		{
 			"image" : "showcase.webm",
-			"header" : "About the Game",
-			"subHeader" : "subheader",
-			"body"   : "Factorio is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. Use your imagination to design your factory, combine simple elements into ingenious structures, apply management skills to keep it working, and protect it from the creatures who don't really like you. The game is very stable and optimized for building massive factories. You can create your own maps, write mods in Lua, or play with friends via Multiplayer. Factorio has been in development since the spring of 2012. So far over 2,000,000 people have bought the game. You can get it from Steam, GOG, or directly from our shop. "
+			"header" : "About the Game", 
+			"body"   : "Neowise is a game under development for Android and iOS that takes inspiration from classics like Scorched Earth, Space Invaders, Worms, and City Defender. The objective is simple: You play as an alien intent on destroying the Earth. To do so, you launch asteroids towards the planet and defend them while humans attempt to shoot you down."
 		},
 		{
 			"image" : "damage.webm",
-			"header" : "Enemies",
-			"subHeader" : "subheader",
-			"body"   : "Factorio is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. Use your imagination to design your factory, combine simple elements into ingenious structures, apply management skills to keep it working, and protect it from the creatures who don't really like you. The game is very stable and optimized for building massive factories. You can create your own maps, write mods in Lua, or play with friends via Multiplayer. Factorio has been in development since the spring of 2012. So far over 2,000,000 people have bought the game. You can get it from Steam, GOG, or directly from our shop. "
+			"header" : "Your Asteroid", 
+			"body"   : "The humans will come at you with a large variety defences, sending ships bombs, and rockets your way in a desperate attempt to save their home planet. Each time you're hit a chunk of your asteroid will be blown off into space. Place shields or find health bombs to help you survive!"
 		},
 	    {
 			"image" : "mapvidfin.webm",
-			"header" : "Weapons",
-			"subHeader" : "subheader",
-			"body"   : "Factorio is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. Use your imagination to design your factory, combine simple elements into ingenious structures, apply management skills to keep it working, and protect it from the creatures who don't really like you. The game is very stable and optimized for building massive factories. You can create your own maps, write mods in Lua, or play with friends via Multiplayer. Factorio has been in development since the spring of 2012. So far over 2,000,000 people have bought the game. You can get it from Steam, GOG, or directly from our shop. "
+			"header" : "The Solar System", 
+			"body"   : "Fight your way through the solar system finding new weapons, upgrades, bonus levels, all while facing increasingly harder resistance the closer you get to Earth. Break through the final defence with enough of your asteroid intact to destroy Earth and win the game!"
 		}
 	]
 }
