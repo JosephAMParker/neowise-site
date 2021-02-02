@@ -8,7 +8,7 @@ import Demo from '../Demo/Demo';
 
 function NeoWise(props) {
 
-	const dataJson = '/data.json';
+	const dataJson = './data.json';
 	const [cardData, setCardData] = useState([]);
 	const [{ data, isLoading, isError, isSuccess}, doFetch] = useFetchData({cards:[]}); 
 

@@ -1,11 +1,12 @@
-import React, {Fragment} from 'react'; 
+import React, { Fragment } from 'react'; 
 import './Card.scss'; 
-import './glow-border.png';
+import './glow-border.png'; 
+import ReactPlayer from 'react-player'
 
-function Card(props) {
+function Card(props) { 
 
 	const card = props.card;
-	const i = props.index;
+	const i = props.index; 
 
 	return (
 		<Fragment>
@@ -19,8 +20,10 @@ function Card(props) {
 		        </div>
 		      </div> 
 		      <div class={"col-md-5 " + (i % 2 == 1 ? "order-md-1" : "")}>
-		      	<div class="card-img glow-border"> 
-		        	<img src={process.env.PUBLIC_URL + '/img/' + card.image} alt="showcase-gif" />             
+		      	<div class="card-img glow-border">  
+				    <video class="video-insert" playsinline controls muted loop>
+				        <source src={process.env.PUBLIC_URL + '/img/' + card.image}  type="video/webm" />
+				    </video>  
 		        </div>
 		       </div> 
 		    </div>
