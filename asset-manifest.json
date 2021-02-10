@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/neowise-site/static/css/main.f262a1ae.chunk.css",
-    "main.js": "/neowise-site/static/js/main.8299bf6b.chunk.js",
-    "main.js.map": "/neowise-site/static/js/main.8299bf6b.chunk.js.map",
-    "runtime-main.js": "/neowise-site/static/js/runtime-main.5fcabd26.js",
-    "runtime-main.js.map": "/neowise-site/static/js/runtime-main.5fcabd26.js.map",
+    "main.css": "/neowise-site/static/css/main.b29f6b5d.chunk.css",
+    "main.js": "/neowise-site/static/js/main.80a7262f.chunk.js",
+    "main.js.map": "/neowise-site/static/js/main.80a7262f.chunk.js.map",
+    "runtime-main.js": "/neowise-site/static/js/runtime-main.14626057.js",
+    "runtime-main.js.map": "/neowise-site/static/js/runtime-main.14626057.js.map",
     "static/css/2.31ff0196.chunk.css": "/neowise-site/static/css/2.31ff0196.chunk.css",
-    "static/js/2.cf4f4f04.chunk.js": "/neowise-site/static/js/2.cf4f4f04.chunk.js",
-    "static/js/2.cf4f4f04.chunk.js.map": "/neowise-site/static/js/2.cf4f4f04.chunk.js.map",
-    "static/js/3.ab4d1017.chunk.js": "/neowise-site/static/js/3.ab4d1017.chunk.js",
-    "static/js/3.ab4d1017.chunk.js.map": "/neowise-site/static/js/3.ab4d1017.chunk.js.map",
+    "static/js/2.7abd6100.chunk.js": "/neowise-site/static/js/2.7abd6100.chunk.js",
+    "static/js/2.7abd6100.chunk.js.map": "/neowise-site/static/js/2.7abd6100.chunk.js.map",
+    "static/js/3.069e7e47.chunk.js": "/neowise-site/static/js/3.069e7e47.chunk.js",
+    "static/js/3.069e7e47.chunk.js.map": "/neowise-site/static/js/3.069e7e47.chunk.js.map",
     "index.html": "/neowise-site/index.html",
     "static/css/2.31ff0196.chunk.css.map": "/neowise-site/static/css/2.31ff0196.chunk.css.map",
-    "static/css/main.f262a1ae.chunk.css.map": "/neowise-site/static/css/main.f262a1ae.chunk.css.map",
-    "static/js/2.cf4f4f04.chunk.js.LICENSE.txt": "/neowise-site/static/js/2.cf4f4f04.chunk.js.LICENSE.txt",
+    "static/css/main.b29f6b5d.chunk.css.map": "/neowise-site/static/css/main.b29f6b5d.chunk.css.map",
+    "static/js/2.7abd6100.chunk.js.LICENSE.txt": "/neowise-site/static/js/2.7abd6100.chunk.js.LICENSE.txt",
     "static/media/App.css": "/neowise-site/static/media/bg_center.d720b746.png",
     "static/media/logo.73959324.png": "/neowise-site/static/media/logo.73959324.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fcabd26.js",
+    "static/js/runtime-main.14626057.js",
     "static/css/2.31ff0196.chunk.css",
-    "static/js/2.cf4f4f04.chunk.js",
-    "static/css/main.f262a1ae.chunk.css",
-    "static/js/main.8299bf6b.chunk.js"
+    "static/js/2.7abd6100.chunk.js",
+    "static/css/main.b29f6b5d.chunk.css",
+    "static/js/main.80a7262f.chunk.js"
   ]
 }
