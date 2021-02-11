@@ -10,11 +10,13 @@ function NeoWise(props) {
 
 	const dataJson = './data.json';
 	const [cardData, setCardData] = useState([]);
+	const [demoData, setDemoData] = useState([]);
 	const [{ data, isLoading, isError, isSuccess}, doFetch] = useFetchData({cards:[]}); 
 
   	useEffect(() => {
 	  	if(isSuccess && !isLoading && !isError) {
 	  		setCardData(data.cards);
+	  		setDemoData(data.demo);
 	  	}  
   	}, [data, isLoading, isError, isSuccess]);
 
@@ -25,7 +27,7 @@ function NeoWise(props) {
 	return (
 		<Fragment>
 			<Header />
-			<Demo />
+			<Demo demoData={demoData}/>
 			<Content cards={cardData}/>  
 		</Fragment>
 	);
