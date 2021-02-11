@@ -1,5 +1,8 @@
 
 {
+	"demo"  : {
+		"subtext" : "* Work In Progress - Does not represent the final look of the game. The finished product will be released for Android and iOS NOT in browser. You may experience performance issues playing in browser. All graphic assets are placeholders."
+	},
 	"cards" : 
 	[
 		{
